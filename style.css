@@ -1,0 +1,108 @@
+body {
+    font-size: 15pt;
+}
+
+
+
+#svg-container {
+    display: none;
+}
+
+
+
+#svg-container {
+    display: none;
+}
+
+#convert-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#download-link {
+    display: none;
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.custom-font {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+
+footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+footer p {
+    margin: 0;
+}
+
+
+
+
+
+#generate-btn, #copy-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#url-container {
+    display: none;
+}
+
+#url-input {
+    width: 300px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+.video-player {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
